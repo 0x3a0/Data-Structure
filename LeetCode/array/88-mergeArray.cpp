@@ -35,4 +35,6 @@ int main() {
     int n = 3;
     
     sol.merge(nums1, m, nums2, n);
+
+    return 0;
 }
